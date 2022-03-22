@@ -4,7 +4,7 @@
 ### Computer Vision Resources:
   + [**Awesome Computer Vision**](https://github.com/jbhuang0604/awesome-computer-vision) from [Ji-Bin Huang](https://jbhuang0604.github.io/) [**Topic list, books, papers, courses, datasets, blogs, resources,...**]
   + [**Awesome Computer Vision**](https://github.com/haofanwang/Awesome-Computer-Vision) [**Topic list, Repositories collection**]
-  + [**Awesome Survey Papers**](https://github.com/Yutong-Zhou-cv/Awesome-Survey-Papers)
+  + [**Awesome Survey Papers**](https://github.com/Yutong-Zhou-cv/Awesome-Survey-Papers) [**List of survey papers on CV**]
 
 ### Deep Learning Resources:
   + [**Deep Learning models**](https://github.com/rasbt/deeplearning-models) from Sebastian Raschka [**Pytorch DL architectures, models, and tips**]
