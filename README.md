@@ -23,9 +23,9 @@
     + [**Awesome Transformer in CV**](https://github.com/Yutong-Zhou-cv/Awesome-Transformer-in-CV) [**_Papers & insights_**]
   + **Few-shot Learning**:
     + [**Awesome Papers Few-shot**](https://github.com/Duan-JM/awesome-papers-fewshot) [**_Papers & codes_**]
+    + [**Few-Shot Classification Leaderboard**](https://fewshot.org/miniimagenet.html) [**_Leaderboard, papers, and code_**]
     + [**Meta Learning Papers**](https://github.com/floodsung/Meta-Learning-Papers) [**_Papers_**]
     + [**Awesome Zero-Shot Learning**](https://github.com/WilliamYi96/Awesome-Zero-Shot-Learning) [**_Papers, codes, & datasets_**]
-    + [**Few-Shot Classification Leaderboard**](https://fewshot.org/miniimagenet.html) [**_Leaderboard, papers, and code_**]
     + [**Few-Shot Semantic egmentation Papers**](https://github.com/xiaomengyc/Few-Shot-Semantic-Segmentation-Papers) [**_Papers & codes_**]
 
 ### Math:
