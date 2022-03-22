@@ -16,16 +16,16 @@
 
 ### Topic:
   + **Attention and Vision Transformer**:
-    + [**Awesome Vision Attentions**](https://github.com/MenghaoGuo/Awesome-Vision-Attentions)
-    + [**Awesome Visual Transformer**](https://github.com/dk-liang/Awesome-Visual-Transformer)
-    + [**Awesome Vit**](https://github.com/open-mmlab/awesome-vit)
-    + [**Awesome Transformer in CV**](https://github.com/Yutong-Zhou-cv/Awesome-Transformer-in-CV)
+    + [**Awesome Vision Attentions**](https://github.com/MenghaoGuo/Awesome-Vision-Attentions) [**Papers only**]
+    + [**Awesome Visual Transformer**](https://github.com/dk-liang/Awesome-Visual-Transformer) [**Papers & codes**]
+    + [**Awesome VIT**](https://github.com/open-mmlab/awesome-vit) [**Papers and mind map**]
+    + [**Awesome Transformer in CV**](https://github.com/Yutong-Zhou-cv/Awesome-Transformer-in-CV) [**Papers & insights**]
   + **Few-shot Learning**:
-    + [**Awesome Papers Fewshot**](https://github.com/Duan-JM/awesome-papers-fewshot)
-    + [**Meta Learning Papers**](https://github.com/floodsung/Meta-Learning-Papers)
-    + [**Awesome Zero-Shot Learning**](https://github.com/WilliamYi96/Awesome-Zero-Shot-Learning)
-    + [**Few-Shot Classification Leaderboard**](https://fewshot.org/miniimagenet.html)
-    + [**Few-Shot Semantic egmentation Papers**](https://github.com/xiaomengyc/Few-Shot-Semantic-Segmentation-Papers)
+    + [**Awesome Papers Few-shot**](https://github.com/Duan-JM/awesome-papers-fewshot) [**Papers & codes**]
+    + [**Meta Learning Papers**](https://github.com/floodsung/Meta-Learning-Papers) [**Papers (no link)**]
+    + [**Awesome Zero-Shot Learning**](https://github.com/WilliamYi96/Awesome-Zero-Shot-Learning) [**Papers, codes, & datasets**]
+    + [**Few-Shot Classification Leaderboard**](https://fewshot.org/miniimagenet.html) [**Leaderboard, papers, and code**]
+    + [**Few-Shot Semantic egmentation Papers**](https://github.com/xiaomengyc/Few-Shot-Semantic-Segmentation-Papers) [**Papers & codes**]
 
 ### Math:
   + [**Mathematics For Machine Learning**](https://github.com/mml-book/mml-book.github.io) [**book, implement code**]
